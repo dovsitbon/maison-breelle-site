@@ -1,0 +1,17 @@
+{
+  "_doc": "Horaires d'ouverture (heure de Paris), relevés sur la fiche Google le 2026-11-05. Jours : 1 = lundi … 7 = dimanche. Plusieurs créneaux = coupure du midi. exceptions : fermetures ou horaires spéciaux datés (AAAA-MM-JJ), « closed » ou des créneaux.",
+  "timezone": "Europe/Paris",
+  "week": {
+    "1": [["09:00", "13:30"], ["15:00", "20:00"]],
+    "2": [["08:00", "13:30"], ["15:00", "20:00"]],
+    "3": [["08:00", "13:30"], ["15:00", "20:00"]],
+    "4": [["08:00", "13:30"], ["15:00", "20:00"]],
+    "5": [["08:00", "13:30"], ["15:00", "20:00"]],
+    "6": [["08:00", "18:00"]],
+    "7": []
+  },
+  "exceptions": [
+    { "date": "2026-12-25", "closed": true },
+    { "date": "2027-01-01", "closed": true }
+  ]
+}

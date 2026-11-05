@@ -1,0 +1,360 @@
+{
+  "meta": {
+    "title": "Charcuterie & caterer in Amiens Henriville | Maison Bréelle",
+    "description": "Maison Bréelle, a charcuterie and caterer on rue Gaulthier de Rumilly in Amiens (Henriville): homemade charcuterie, ready meals, salads, platters and buffets. Click & collect and catering quotes.",
+    "ogAlt": "Maison Bréelle, charcuterie and caterer in Amiens: ham and roast beef platters",
+    "legalTitle": "Legal notice | Maison Bréelle",
+    "cateringTitle": "Caterer in Amiens: buffets and platters | Maison Bréelle",
+    "cateringDescription": "Cold buffets, cocktail receptions, family meals and office platters, made at the Maison Bréelle charcuterie in Amiens Henriville. Ask for your catering quote."
+  },
+  "intro": { "skip": "Skip" },
+  "nav": {
+    "skip": "Skip to content",
+    "home": "Maison Bréelle, home",
+    "menu": "Menu",
+    "close": "Close menu",
+    "lang": "Language",
+    "call": "Call",
+    "boutique": "The shop",
+    "traiteur": "Catering",
+    "dish": "Dish of the day",
+    "fetes": "Holidays",
+    "infos": "Visit",
+    "orderCta": "Order",
+    "quoteCta": "Catering quote"
+  },
+  "announce": { "close": "Close the banner" },
+  "hero": {
+    "eyebrow": "Charcuterie · Caterer · Henriville, Amiens",
+    "title": "Homemade flavour, just around the corner",
+    "sub": "Pâtés, hams, ready meals and platters made on site by Olivier and Cindy Bréelle. Order the day before and we will have it ready at the time that suits you.",
+    "ctaOrder": "Order for pick-up",
+    "ctaQuote": "Ask for a quote",
+    "rating": "{value}/5 on Google",
+    "ratingCount": "{count} reviews",
+    "ratingNote": "Google rating checked on {date}"
+  },
+  "tiles": {
+    "title": "Our counters",
+    "items": {
+      "charcuterie": "Homemade charcuterie",
+      "plats": "Ready meals",
+      "salades": "Salads & starters",
+      "plateaux": "Platters & buffets",
+      "fetes": "Holidays"
+    }
+  },
+  "services": {
+    "title": "Our services",
+    "items": {
+      "pickup": { "title": "Click & collect", "text": "24 hours ahead, ready at the time you choose." },
+      "catering": { "title": "Event catering", "text": "Buffets, receptions, family meals, businesses." },
+      "dish": { "title": "Dish of the day", "text": "A homemade dish every lunchtime, to take away." },
+      "phone": { "title": "+33 3 22 45 11 18", "text": "A question or an order: give us a call." }
+    }
+  },
+  "categories": {
+    "charcuterie": "Homemade charcuterie",
+    "plats": "Ready meals",
+    "salades": "Salads & starters",
+    "plateaux": "Platters"
+  },
+  "shop": {
+    "eyebrow": "The shop",
+    "title": "Everything is made here, behind the counter",
+    "lead": "A neighbourhood charcuterie the way we like them: seasonal terrines, ham sliced to order, slow-cooked dishes and the salads of the day.",
+    "all": "All",
+    "filter": "Filter by counter",
+    "shop": "In store",
+    "order": "To order",
+    "priceKg": "Price per kilo in store",
+    "pricePiece": "Price in store",
+    "priceOrder": "Price depends on size",
+    "from": "From",
+    "perKg": "per kg",
+    "perPiece": "each",
+    "add": "Add",
+    "addLabel": "Add {name} to my order",
+    "checked": "Indicative selection as of {date}. The counter changes with the seasons: just ask us for what you fancy."
+  },
+  "products": {
+    "pateCroute": { "name": "Pâté en croûte", "note": "Homemade filling in golden baked pastry." },
+    "terrineCampagne": { "name": "Country terrine", "note": "The classic terrine, sliced to order." },
+    "rillettes": { "name": "Rillettes", "note": "Slow-cooked, shredded by hand." },
+    "jambonBlanc": { "name": "Cooked ham", "note": "Sliced in front of you, thin or thick." },
+    "saucissonSec": { "name": "Dry sausage", "note": "Sold by the piece." },
+    "boudinNoir": { "name": "Black pudding", "note": "Pan-fry it with apples." },
+    "saucisses": { "name": "Fresh sausages", "note": "For the pan or the barbecue." },
+    "hachis": { "name": "Hachis parmentier", "note": "French cottage pie, by the portion." },
+    "choucroute": { "name": "Choucroute garnie", "note": "Sauerkraut with meats, by the portion." },
+    "blanquette": { "name": "Veal blanquette", "note": "By the portion, with rice." },
+    "lasagnes": { "name": "Lasagne", "note": "By the portion." },
+    "saladePdt": { "name": "Potato salad", "note": "Parsley, shallot, homemade dressing." },
+    "celeri": { "name": "Celeriac rémoulade", "note": "Homemade mustard mayonnaise." },
+    "piemontaise": { "name": "Piémontaise salad", "note": "Potato, ham, egg and gherkins." },
+    "carottes": { "name": "Grated carrots", "note": "Lemon and olive oil." },
+    "plateauJambon": { "name": "Ham platter", "note": "Rolled, garnished slices on a bed of lettuce." },
+    "plateauRosbif": { "name": "Roast beef platter", "note": "Pink sliced roast beef, tomatoes and peppers." },
+    "plateauCharcuterie": { "name": "Charcuterie platter", "note": "Terrines, ham, dry sausage: for sharing." }
+  },
+  "dish": {
+    "eyebrow": "Every lunchtime",
+    "title": "Dish of the day",
+    "today": "Today, {day}",
+    "price": "{price} per portion",
+    "none": "The dish of the day changes every morning",
+    "noneText": "It goes up in the window as soon as we open. To find out what it is or to put a portion aside, just give us a call.",
+    "order": "Reserve a portion",
+    "call": "Ask for today's dish",
+    "closedDay": "The shop is closed today. The dish of the day returns when we reopen."
+  },
+  "catering": {
+    "eyebrow": "Catering",
+    "title": "For your events, large and small",
+    "lead": "A birthday, a first communion, a leaving do or a team lunch: tell us the date, the number of guests and your budget, and we will suggest a menu made to measure.",
+    "minGuests": "From {n} guests",
+    "onQuote": "Number of guests on request",
+    "from": "From {price} per guest",
+    "priceQuote": "Price on request",
+    "cta": "Ask for a quote",
+    "ctaLabel": "Ask for a quote: {name}",
+    "more": "Discover our catering",
+    "items": {
+      "buffet": { "name": "Cold buffet", "text": "Charcuterie platters, sliced cold meats and mixed salads: a generous buffet, ready to serve." },
+      "cocktail": { "name": "Cocktail reception", "text": "Savoury bites and verrines to enjoy standing up, for a reception or an opening." },
+      "famille": { "name": "Family meal", "text": "Starters, a hot main course and sides for christenings, communions and birthdays at home." },
+      "entreprise": { "name": "Business", "text": "Meal trays, meeting buffets and leaving dos, ready at the time that suits you." }
+    }
+  },
+  "seasons": {
+    "eyebrow": "Holidays",
+    "title": "Holidays are prepared in advance",
+    "lead": "For big tables, orders are placed a few days ahead. Order online or in store and we will confirm everything by phone.",
+    "deadline": "Orders until {date}",
+    "past": "Orders closed, ask in store",
+    "next": "Coming up",
+    "order": "Order for {name}",
+    "items": {
+      "noel": { "title": "Christmas", "text": "Pâté en croûte, festive terrines, platters and hot dishes to reheat for Christmas Eve and Christmas lunch." },
+      "nouvelAn": { "title": "New Year's Eve", "text": "Buffets and platters, so you can host without spending the evening in the kitchen." },
+      "paques": { "title": "Easter", "text": "Easter Sunday lunch, from starter to main course, to collect the day before." }
+    }
+  },
+  "house": {
+    "eyebrow": "The house",
+    "title": "Olivier and Cindy Bréelle, charcutiers and caterers in Henriville",
+    "p1": "At 11 rue Gaulthier de Rumilly, Maison Bréelle keeps alive the kind of neighbourhood charcuterie that has become rare: everything in the window is prepared in the shop's own kitchen.",
+    "p2": "Locals come for ham sliced to order, terrines and the dish of the day. They come back for the quality and for prices that stay reasonable.",
+    "p3": "Their full story is coming to this page soon.",
+    "facts": {
+      "home": { "title": "Homemade", "text": "Charcuterie, dishes and salads made on site." },
+      "district": { "title": "Henriville", "text": "A neighbourhood shop, a short walk from central Amiens." },
+      "rating": { "title": "{value}/5", "text": "From {count} Google reviews: quality and prices come up again and again." }
+    }
+  },
+  "status": {
+    "open": "Open now",
+    "closed": "Closed",
+    "until": "until {time}",
+    "opens": "opens {day} at {time}",
+    "today": "today",
+    "tomorrow": "tomorrow"
+  },
+  "infos": {
+    "eyebrow": "Visit us",
+    "title": "Coming to the shop",
+    "address": "Address",
+    "directions": "Directions",
+    "phone": "Phone",
+    "email": "Email",
+    "access": "Getting here",
+    "accessText": "Henriville district, south of the city centre. Street parking on this and nearby streets.",
+    "hours": "Opening hours",
+    "lunch": "On weekdays, the shop closes from 1.30 to 3 pm.",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "closed": "Closed",
+    "mapTitle": "Map to Maison Bréelle, 11 rue Gaulthier de Rumilly, Amiens"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Good to know",
+    "items": [
+      { "q": "How far ahead should I order?", "a": "For click & collect, 24 hours is enough: choose the day and time in the form. For a buffet or a group meal, allow at least a week, more during the holidays." },
+      { "q": "How can I find out about allergens?", "a": "Everything is made on site, so we know every recipe. Ask us at the counter or by phone and we will tell you which allergens are present (gluten, milk, egg, mustard, celery…)." },
+      { "q": "How should I store charcuterie and ready meals?", "a": "In the fridge, between 0 and 4 °C. Sliced charcuterie and salads are best eaten within two to three days; ready meals reheat in the oven or microwave. If in doubt, ask us at the counter." },
+      { "q": "How do I pay?", "a": "You pay in store when you collect. There is no online payment. For buffets and large orders, a deposit may be requested." },
+      { "q": "Do you deliver?", "a": "Orders are collected from the shop. For catering, tell us about your venue in the quote request and we will let you know what is possible." },
+      { "q": "Can I change or cancel my order?", "a": "Yes, call us on +33 3 22 45 11 18 as early as possible, at the latest the day before collection." }
+    ]
+  },
+  "order": {
+    "eyebrow": "Click & collect",
+    "title": "You order, we prepare",
+    "lead": "Choose your products and a collection day and time. We confirm the order by phone or email. You pay in store.",
+    "callInstead": "Would you rather order by phone?",
+    "productsTitle": "Your products",
+    "product": "Product",
+    "quantity": "Quantity",
+    "unit": "Unit",
+    "units": { "kg": "kg", "piece": "piece", "pieces": "pieces" },
+    "cut": "Slicing",
+    "cuts": { "asIs": "As is", "thin": "Thinly sliced", "thick": "Thickly sliced", "other": "Other (please specify)" },
+    "detail": "Details",
+    "detailPh": "E.g. 8 slices, for 6 people…",
+    "other": "Other product",
+    "otherPh": "What you would like",
+    "dishOption": "Dish of the day (per portion)",
+    "addLine": "Add a product",
+    "removeLine": "Remove this product",
+    "pickupTitle": "Collection in store",
+    "pickupLead": "At the earliest {hours} hours after ordering, during opening hours.",
+    "date": "Day",
+    "time": "Time",
+    "timePh": "Choose a time",
+    "required": "required",
+    "contactTitle": "Your details",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email (optional)",
+    "emailHint": "To receive a summary of your order.",
+    "message": "Message (optional)",
+    "messagePh": "An allergy, a special request…",
+    "submit": "Send my order",
+    "sending": "Sending…",
+    "payNote": "Payment in store on collection. No online payment.",
+    "whatsapp": "Also send on WhatsApp",
+    "errors": {
+      "lines": "Check the quantities, and describe the product if you chose “Other”.",
+      "date": "Choose a collection day.",
+      "time": "Choose a collection time.",
+      "name": "Please enter your name.",
+      "phone": "Please enter a valid phone number.",
+      "email": "This email address does not look valid.",
+      "send": "Your order could not be sent. Please try again, or call us directly."
+    },
+    "done": {
+      "title": "Thank you, your order has been sent",
+      "text": "We are preparing it and will call you if we need any details.",
+      "pendingTitle": "Order noted: please call to confirm it",
+      "pendingText": "Your request has been recorded on this site, but to make sure it is ready, please call us and give your name.",
+      "mail": "A summary has been sent to {email}.",
+      "again": "Place another order"
+    },
+    "mail": {
+      "subject": "Click & collect order",
+      "title": "New click & collect order",
+      "lines": "Products",
+      "pickup": "Collection",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Message",
+      "lang": "Customer language",
+      "confirmSubject": "Your order at Maison Bréelle",
+      "confirmIntro": "Hello {name},\n\nThank you for your order. Here is a summary:",
+      "confirmOutro": "Payment is made in store on collection. To change anything, call us on +33 3 22 45 11 18.\n\nSee you soon,\nOlivier and Cindy Bréelle"
+    }
+  },
+  "quote": {
+    "eyebrow": "Catering quote",
+    "title": "Tell us about your event",
+    "lead": "A few details are enough. We will come back to you with a proposal and a price, with no obligation.",
+    "eventTitle": "Your event",
+    "event": "Type of event",
+    "events": { "buffet": "Buffet", "cocktail": "Cocktail reception", "famille": "Family meal", "entreprise": "Business", "other": "Other" },
+    "date": "Date",
+    "guests": "Number of guests",
+    "formula": "Preferred option",
+    "unsure": "Not sure yet",
+    "budget": "Budget per guest",
+    "budgets": { "lt15": "Under €15", "15to25": "€15 to €25", "25to40": "€25 to €40", "gt40": "Over €40", "unsure": "To be discussed" },
+    "mode": "Collection or delivery",
+    "modes": { "pickup": "Collection in store", "delivery": "Delivery (to be discussed)" },
+    "address": "Event venue",
+    "addressPh": "Address or town",
+    "contactTitle": "Your details",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "message": "Message (optional)",
+    "messagePh": "Your wishes, a special diet, serving time…",
+    "submit": "Send my quote request",
+    "sending": "Sending…",
+    "note": "Free quote, no obligation. We will reply by phone or email.",
+    "errors": {
+      "event": "Choose the type of event.",
+      "date": "Enter the date of the event.",
+      "guests": "Enter the number of guests.",
+      "name": "Please enter your name.",
+      "phone": "Please enter a valid phone number.",
+      "email": "Please enter a valid email address to receive the quote.",
+      "send": "Your request could not be sent. Please try again, or call us directly."
+    },
+    "soon": "Less than {days} days before the event: please call us to check it is possible.",
+    "done": {
+      "title": "Thank you, your request has been sent",
+      "text": "We are looking at your request and will come back to you with a proposal.",
+      "pendingTitle": "Request noted: please call to confirm it",
+      "pendingText": "Your request has been recorded on this site. To make sure it reaches us, please call and give your name.",
+      "mail": "A copy has been sent to {email}.",
+      "again": "Make another request"
+    },
+    "mail": {
+      "subject": "Catering quote request",
+      "title": "New catering quote request",
+      "lang": "Customer language",
+      "confirmSubject": "Your quote request at Maison Bréelle",
+      "confirmIntro": "Hello {name},\n\nThank you for your request. We have received it:",
+      "confirmOutro": "We will come back to you shortly with a proposal. Any questions: +33 3 22 45 11 18.\n\nSee you soon,\nOlivier and Cindy Bréelle"
+    }
+  },
+  "cateringPage": {
+    "eyebrow": "Caterer in Amiens",
+    "title": "Caterer in Amiens: buffets and platters",
+    "lead": "From their charcuterie in Henriville, Olivier and Cindy Bréelle cater buffets, receptions and family meals across Amiens. The same homemade food as in the shop, scaled to your event.",
+    "formulasTitle": "Our options",
+    "howTitle": "How it works",
+    "steps": [
+      { "t": "Your request", "x": "Date, number of guests, budget: fill in the form or give us a call." },
+      { "t": "Our proposal", "x": "We send you a menu and a price, and adjust it with you if needed." },
+      { "t": "On the day", "x": "You collect everything from the shop, ready to serve, at the agreed time." }
+    ],
+    "faqTitle": "Catering questions",
+    "faq": [
+      { "q": "How long before the event should I book?", "a": "Ideally two to three weeks, at least one week. Around Christmas and New Year, book as early as you can." },
+      { "q": "Can you adapt the menu (no pork, vegetarian, allergies)?", "a": "Mention it in your request: we adapt the proposal as far as possible and tell you the allergens in each dish." },
+      { "q": "Do you provide tableware?", "a": "Platters come ready to serve. For anything else (plates, tablecloths, service), tell us what you need in your request." },
+      { "q": "Is a deposit required?", "a": "For larger events, a deposit may be requested on confirmation. The balance is paid in store." }
+    ],
+    "back": "Back to the shop"
+  },
+  "footer": {
+    "tagline": "Neighbourhood charcuterie and caterer in Henriville, Amiens. Everything is homemade.",
+    "rights": "Maison Bréelle – Charcuterie Traiteur",
+    "legal": "Legal notice",
+    "catering": "Caterer in Amiens"
+  },
+  "pages": {
+    "legal": {
+      "title": "Legal notice",
+      "pending": "to be completed",
+      "editor": "Publisher",
+      "editorText": "Maison Bréelle – Charcuterie Traiteur, 11 rue Gaulthier de Rumilly, 80000 Amiens, France. Phone: +33 3 22 45 11 18.",
+      "company": "Company name",
+      "siret": "SIRET",
+      "host": "Hosting",
+      "data": "Personal data",
+      "dataText": "Information entered in the order and quote forms is used only to handle your request. It is emailed to the shop and is neither stored on the site nor passed on to third parties. You can ask for it to be deleted by calling the shop.",
+      "cookies": "Cookies",
+      "cookiesText": "This site uses no advertising cookies and no audience measurement. Only your language choice is remembered. The access map is provided by Google Maps.",
+      "photos": "Photographs",
+      "photosText": "Photographs: Maison Bréelle. Reproduction is forbidden without permission."
+    }
+  },
+  "alt": {
+    "hero/plateaux-charcuterie": "Two platters prepared by Maison Bréelle: rolled cooked ham and sliced roast beef, garnished with peppers, olives and lettuce",
+    "traiteur/plateau-jambon": "Platter of sliced cooked ham garnished with peppers, black olives and curly lettuce",
+    "traiteur/plateau-rosbif": "Platter of pink sliced roast beef with tomatoes, peppers and olives",
+    "plats/salade-pommes-de-terre": "Potato salad with parsley, served in a white dish"
+  }
+}

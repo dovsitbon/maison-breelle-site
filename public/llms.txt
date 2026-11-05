@@ -1,0 +1,14 @@
+# Maison Bréelle – Charcuterie Traiteur
+
+> Charcuterie traiteur de quartier tenue par Olivier et Cindy Bréelle, 11 rue Gaulthier de Rumilly, 80000 Amiens (quartier Henriville). Produits faits maison : charcuterie, plats cuisinés, salades, plateaux, buffets. Commande à retirer en boutique et devis traiteur en ligne. Téléphone : 03 22 45 11 18.
+
+- Horaires : lundi 9 h – 13 h 30 et 15 h – 20 h ; mardi à vendredi 8 h – 13 h 30 et 15 h – 20 h ; samedi 8 h – 18 h ; fermé le dimanche.
+- Note Google : 4,8/5 sur 86 avis (relevé du 5 novembre 2026).
+- Paiement en boutique au retrait, pas de paiement en ligne.
+
+## Pages
+
+- [Accueil (FR)](https://maison-breelle.vercel.app/fr): boutique, plat du jour, fêtes, commande à retirer, infos pratiques, FAQ
+- [Traiteur à Amiens : buffets et plateaux](https://maison-breelle.vercel.app/fr/traiteur-amiens): formules et demande de devis
+- [Home (EN)](https://maison-breelle.vercel.app/en)
+- [Caterer in Amiens](https://maison-breelle.vercel.app/en/catering-amiens)

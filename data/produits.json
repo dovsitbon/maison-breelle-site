@@ -1,0 +1,31 @@
+{
+  "_doc": "La boutique. Noms et descriptions : locales/*.json → products.<id>. price : prix en euros (null = « prix en boutique ») ; unit : kg (prix au kilo) ou piece (prix à la pièce, la part ou le plateau). from : true = « à partir de ». availability : shop (en boutique) ou order (sur commande). photo : clé de la photo dans public/media (ex. boutique/pate-en-croute) ; tant qu'elle n'existe pas, la carte s'affiche sans photo. LISTE INDICATIVE (produits classiques d'une charcuterie traiteur, sauf les plateaux jambon / rosbif et la salade de pommes de terre, vus sur la photo de la fiche Google) : à valider avec la boutique, avec ses prix.",
+  "checked": "2026-11-05",
+  "categories": [
+    { "id": "charcuterie", "items": ["pateCroute", "terrineCampagne", "rillettes", "jambonBlanc", "saucissonSec", "boudinNoir", "saucisses"] },
+    { "id": "plats", "items": ["hachis", "choucroute", "blanquette", "lasagnes"] },
+    { "id": "salades", "items": ["saladePdt", "celeri", "piemontaise", "carottes"] },
+    { "id": "plateaux", "items": ["plateauJambon", "plateauRosbif", "plateauCharcuterie"] }
+  ],
+  "items": {
+    "pateCroute": { "price": null, "from": false, "unit": "kg", "availability": "shop", "photo": "boutique/pate-en-croute" },
+    "terrineCampagne": { "price": null, "from": false, "unit": "kg", "availability": "shop", "photo": "boutique/terrine-campagne" },
+    "rillettes": { "price": null, "from": false, "unit": "kg", "availability": "shop", "photo": "boutique/rillettes" },
+    "jambonBlanc": { "price": null, "from": false, "unit": "kg", "availability": "shop", "photo": "boutique/jambon-blanc" },
+    "saucissonSec": { "price": null, "from": false, "unit": "piece", "availability": "shop", "photo": "boutique/saucisson-sec" },
+    "boudinNoir": { "price": null, "from": false, "unit": "kg", "availability": "shop", "photo": "boutique/boudin-noir" },
+    "saucisses": { "price": null, "from": false, "unit": "kg", "availability": "shop", "photo": "boutique/saucisses" },
+    "hachis": { "price": null, "from": false, "unit": "piece", "availability": "shop", "photo": "plats/hachis-parmentier" },
+    "choucroute": { "price": null, "from": false, "unit": "piece", "availability": "shop", "photo": "plats/choucroute" },
+    "blanquette": { "price": null, "from": false, "unit": "piece", "availability": "shop", "photo": "plats/blanquette" },
+    "lasagnes": { "price": null, "from": false, "unit": "piece", "availability": "shop", "photo": "plats/lasagnes" },
+    "saladePdt": { "price": null, "from": false, "unit": "kg", "availability": "shop", "photo": "plats/salade-pommes-de-terre" },
+    "celeri": { "price": null, "from": false, "unit": "kg", "availability": "shop", "photo": "plats/celeri-remoulade" },
+    "piemontaise": { "price": null, "from": false, "unit": "kg", "availability": "shop", "photo": "plats/piemontaise" },
+    "carottes": { "price": null, "from": false, "unit": "kg", "availability": "shop", "photo": "plats/carottes-rapees" },
+    "plateauJambon": { "price": null, "from": true, "unit": "piece", "availability": "order", "photo": "traiteur/plateau-jambon" },
+    "plateauRosbif": { "price": null, "from": true, "unit": "piece", "availability": "order", "photo": "traiteur/plateau-rosbif" },
+    "plateauCharcuterie": { "price": null, "from": true, "unit": "piece", "availability": "order", "photo": "traiteur/plateau-charcuterie" }
+  },
+  "cuts": ["asIs", "thin", "thick", "other"]
+}

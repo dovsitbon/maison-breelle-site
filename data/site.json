@@ -1,0 +1,19 @@
+{
+  "_doc": "Coordonnées et réglages de la boutique. whatsapp : numéro de PORTABLE au format international sans + (ex. 33612345678) ; vide = pas de bouton WhatsApp (la boutique n'a donné qu'une ligne fixe). email : adresse de la boutique (affichée si remplie). rating : note Google relevée à la main (checked = date du relevé), à mettre à jour de temps en temps.",
+  "name": "Maison Bréelle",
+  "fullName": "Maison Bréelle – Charcuterie Traiteur",
+  "owners": "Olivier et Cindy Bréelle",
+  "url": "https://maison-breelle.vercel.app",
+  "phone": "03 22 45 11 18",
+  "phoneIntl": "+33322451118",
+  "whatsapp": "",
+  "email": "",
+  "address": { "street": "11 rue Gaulthier de Rumilly", "postalCode": "80000", "city": "Amiens", "district": "Henriville", "region": "Hauts-de-France", "country": "FR" },
+  "geo": { "lat": 49.88762, "lng": 2.29395 },
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charcuterie+Traiteur+Br%C3%A9elle+11+rue+Gaulthier+de+Rumilly+80000+Amiens",
+  "mapsEmbed": "https://www.google.com/maps?q=11+rue+Gaulthier+de+Rumilly,+80000+Amiens&z=16&output=embed",
+  "rating": { "value": 4.8, "count": 86, "source": "Google", "checked": "2026-11-05" },
+  "order": { "leadHours": 24, "slotMinutes": 30, "maxPerLine": 50, "_doc": "leadHours : délai minimum entre la commande et le retrait (24 h par défaut, à confirmer). slotMinutes : pas des créneaux de retrait." },
+  "quote": { "minDays": 7, "_doc": "minDays : délai minimum (jours) entre la demande de devis et l'événement, à confirmer." },
+  "legal": { "company": "", "siret": "", "director": "", "host": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis" }
+}

@@ -1,0 +1,11 @@
+{
+  "_doc": "Prestations traiteur (page « Traiteur à Amiens » et accueil). Textes : locales/*.json → catering.items.<id>. minGuests : nombre minimum de personnes (null = étiquette « Sur devis »). pricePerGuest : prix « à partir de » par personne en euros (null = « Prix sur devis »). photo / fallback : clés de public/media. À REMPLIR avec la boutique.",
+  "items": [
+    { "id": "buffet", "minGuests": null, "pricePerGuest": null, "photo": "traiteur/buffet-froid", "fallback": "traiteur/plateau-jambon" },
+    { "id": "cocktail", "minGuests": null, "pricePerGuest": null, "photo": "traiteur/cocktail", "fallback": null },
+    { "id": "famille", "minGuests": null, "pricePerGuest": null, "photo": "traiteur/repas-famille", "fallback": "traiteur/plateau-rosbif" },
+    { "id": "entreprise", "minGuests": null, "pricePerGuest": null, "photo": "traiteur/entreprise", "fallback": null }
+  ],
+  "events": ["buffet", "cocktail", "famille", "entreprise", "other"],
+  "budgets": ["lt15", "15to25", "25to40", "gt40", "unsure"]
+}

@@ -1,0 +1,10 @@
+{
+  "_doc": "Les fêtes. Une fête s'affiche de « show » jusqu'à « to » (inclus), puis disparaît d'elle-même ; hors saison, la section annonce la prochaine. « deadline » = date limite de commande (à confirmer). image : clé d'une photo de public/media (ex. « traiteur/noel ») ; tant qu'elle n'existe pas, un emplacement sobre s'affiche.",
+  "items": [
+    { "id": "noel", "show": "2026-11-01", "deadline": "2026-12-19", "to": "2026-12-24", "image": "traiteur/noel" },
+    { "id": "nouvelAn", "show": "2026-11-01", "deadline": "2026-12-27", "to": "2026-12-31", "image": "traiteur/nouvel-an" },
+    { "id": "paques", "show": "2027-02-01", "deadline": "2027-03-24", "to": "2027-03-28", "image": "traiteur/paques" },
+    { "id": "noel", "show": "2027-11-01", "deadline": "2027-12-19", "to": "2027-12-24", "image": "traiteur/noel" },
+    { "id": "nouvelAn", "show": "2027-11-01", "deadline": "2027-12-27", "to": "2027-12-31", "image": "traiteur/nouvel-an" }
+  ]
+}

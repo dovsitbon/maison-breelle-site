@@ -1,0 +1,531 @@
+{
+  "meta": {
+    "title": "Charcuterie traiteur à Amiens Henriville | Maison Bréelle",
+    "description": "Maison Bréelle, charcuterie traiteur rue Gaulthier de Rumilly à Amiens (Henriville) : charcuterie maison, plats cuisinés, salades, plateaux et buffets. Commande à retirer et devis traiteur.",
+    "ogAlt": "Maison Bréelle, charcuterie traiteur à Amiens : plateaux de jambon et de rosbif",
+    "legalTitle": "Mentions légales | Maison Bréelle",
+    "cateringTitle": "Traiteur à Amiens : buffets et plateaux | Maison Bréelle",
+    "cateringDescription": "Buffets froids, cocktails, repas de famille et plateaux pour les entreprises, préparés à la charcuterie Maison Bréelle à Amiens Henriville. Demandez votre devis traiteur."
+  },
+  "intro": {
+    "skip": "Passer"
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "home": "Maison Bréelle, accueil",
+    "menu": "Menu",
+    "close": "Fermer le menu",
+    "lang": "Langue",
+    "call": "Appeler",
+    "boutique": "La boutique",
+    "traiteur": "Le traiteur",
+    "dish": "Plat du jour",
+    "fetes": "Fêtes",
+    "infos": "Infos",
+    "orderCta": "Commander",
+    "quoteCta": "Devis traiteur"
+  },
+  "announce": {
+    "close": "Fermer le bandeau"
+  },
+  "hero": {
+    "eyebrow": "Charcuterie · Traiteur · Henriville, Amiens",
+    "title": "Le goût du fait maison, au coin de la rue",
+    "sub": "Pâtés, jambons, plats cuisinés et plateaux préparés sur place par Olivier et Cindy Bréelle. Commandez la veille, on vous le prépare pour l'heure qui vous arrange.",
+    "ctaOrder": "Commander à retirer",
+    "ctaQuote": "Demander un devis",
+    "rating": "{value}/5 sur Google",
+    "ratingCount": "{count} avis",
+    "ratingNote": "Note Google relevée le {date}"
+  },
+  "tiles": {
+    "title": "Nos rayons",
+    "items": {
+      "charcuterie": "Charcuterie maison",
+      "plats": "Plats cuisinés",
+      "salades": "Salades & entrées",
+      "plateaux": "Plateaux & buffets",
+      "fetes": "Les fêtes"
+    }
+  },
+  "services": {
+    "title": "Nos services",
+    "items": {
+      "pickup": {
+        "title": "Commande à retirer",
+        "text": "24 h à l'avance, prête à l'heure choisie."
+      },
+      "catering": {
+        "title": "Traiteur événements",
+        "text": "Buffets, cocktails, repas de famille, entreprises."
+      },
+      "dish": {
+        "title": "Plat du jour",
+        "text": "Un plat maison chaque midi, à emporter."
+      },
+      "phone": {
+        "title": "03 22 45 11 18",
+        "text": "Une question, une commande : appelez-nous."
+      }
+    }
+  },
+  "categories": {
+    "charcuterie": "Charcuterie maison",
+    "plats": "Plats cuisinés",
+    "salades": "Salades & entrées",
+    "plateaux": "Plateaux"
+  },
+  "shop": {
+    "eyebrow": "La boutique",
+    "title": "Tout est fait ici, derrière le comptoir",
+    "lead": "Une charcuterie de quartier, comme on les aime : les terrines du moment, le jambon tranché à la demande, les plats qui mijotent et les salades du jour.",
+    "all": "Tout",
+    "filter": "Filtrer par rayon",
+    "shop": "En boutique",
+    "order": "Sur commande",
+    "priceKg": "Prix au kilo en boutique",
+    "pricePiece": "Prix en boutique",
+    "priceOrder": "Prix selon la taille",
+    "from": "À partir de",
+    "perKg": "le kg",
+    "perPiece": "la pièce",
+    "add": "Ajouter",
+    "addLabel": "Ajouter {name} à ma commande",
+    "checked": "Sélection indicative au {date}. La vitrine change avec les saisons : demandez-nous ce qui vous ferait plaisir."
+  },
+  "products": {
+    "pateCroute": {
+      "name": "Pâté en croûte",
+      "note": "Farce maison, pâte dorée au four."
+    },
+    "terrineCampagne": {
+      "name": "Terrine de campagne",
+      "note": "La terrine de toujours, à la coupe."
+    },
+    "rillettes": {
+      "name": "Rillettes",
+      "note": "Cuites longuement, effilochées à la main."
+    },
+    "jambonBlanc": {
+      "name": "Jambon blanc",
+      "note": "Tranché devant vous, fin ou épais."
+    },
+    "saucissonSec": {
+      "name": "Saucisson sec",
+      "note": "À la pièce."
+    },
+    "boudinNoir": {
+      "name": "Boudin noir",
+      "note": "À poêler, avec des pommes."
+    },
+    "saucisses": {
+      "name": "Saucisses fraîches",
+      "note": "Pour la poêle ou le barbecue."
+    },
+    "hachis": {
+      "name": "Hachis parmentier",
+      "note": "À la part, à réchauffer au four."
+    },
+    "choucroute": {
+      "name": "Choucroute garnie",
+      "note": "À la part."
+    },
+    "blanquette": {
+      "name": "Blanquette de veau",
+      "note": "À la part, avec son riz."
+    },
+    "lasagnes": {
+      "name": "Lasagnes",
+      "note": "À la part."
+    },
+    "saladePdt": {
+      "name": "Salade de pommes de terre",
+      "note": "Persil, échalote, vinaigrette maison."
+    },
+    "celeri": {
+      "name": "Céleri rémoulade",
+      "note": "Mayonnaise moutardée maison."
+    },
+    "piemontaise": {
+      "name": "Salade piémontaise",
+      "note": "Pommes de terre, jambon, œuf, cornichons."
+    },
+    "carottes": {
+      "name": "Carottes râpées",
+      "note": "Citron et huile d'olive."
+    },
+    "plateauJambon": {
+      "name": "Plateau de jambon",
+      "note": "Tranches roulées et garnies, sur lit de salade."
+    },
+    "plateauRosbif": {
+      "name": "Plateau de rosbif",
+      "note": "Rosbif rosé tranché, tomates et poivrons."
+    },
+    "plateauCharcuterie": {
+      "name": "Plateau de charcuterie",
+      "note": "Terrines, jambon, saucisson : à partager."
+    }
+  },
+  "dish": {
+    "eyebrow": "Chaque midi",
+    "title": "Le plat du jour",
+    "today": "Aujourd'hui, {day}",
+    "price": "{price} la part",
+    "none": "Le plat du jour change chaque matin",
+    "noneText": "Il est affiché en vitrine dès l'ouverture. Pour le connaître ou mettre une part de côté, un simple appel suffit.",
+    "order": "Réserver une part",
+    "call": "Demander le plat du jour",
+    "closedDay": "La boutique est fermée aujourd'hui. Le plat du jour revient à la réouverture."
+  },
+  "catering": {
+    "eyebrow": "Le traiteur",
+    "title": "Pour vos événements, petits et grands",
+    "lead": "Un anniversaire, une communion, un pot de départ ou un repas d'équipe : dites-nous la date, le nombre d'invités et votre budget, nous vous proposons une formule sur mesure.",
+    "minGuests": "Dès {n} personnes",
+    "onQuote": "Nombre de personnes sur devis",
+    "from": "À partir de {price} par personne",
+    "priceQuote": "Prix sur devis",
+    "cta": "Demander un devis",
+    "ctaLabel": "Demander un devis : {name}",
+    "more": "Découvrir le traiteur",
+    "items": {
+      "buffet": {
+        "name": "Buffet froid",
+        "text": "Plateaux de charcuterie, viandes froides tranchées, salades composées : un buffet généreux, prêt à servir."
+      },
+      "cocktail": {
+        "name": "Cocktail",
+        "text": "Pièces salées et verrines à picorer debout, pour un vin d'honneur ou une inauguration."
+      },
+      "famille": {
+        "name": "Repas de famille",
+        "text": "Entrées, plat chaud et accompagnements pour les baptêmes, communions et anniversaires à la maison."
+      },
+      "entreprise": {
+        "name": "Entreprise",
+        "text": "Plateaux-repas, buffets de réunion et pots de départ, préparés pour l'heure qui vous convient."
+      }
+    }
+  },
+  "seasons": {
+    "eyebrow": "Les fêtes",
+    "title": "Les fêtes se préparent à l'avance",
+    "lead": "Pour les grandes tablées, les commandes se font quelques jours avant. Passez-les en ligne ou en boutique, nous vous confirmons tout par téléphone.",
+    "deadline": "Commandes jusqu'au {date}",
+    "past": "Commandes closes, demandez en boutique",
+    "next": "Prochainement",
+    "order": "Commander pour {name}",
+    "items": {
+      "noel": {
+        "title": "Noël",
+        "text": "Pâté en croûte, terrines de fête, plateaux et plats chauds à réchauffer pour le réveillon et le déjeuner du 25."
+      },
+      "nouvelAn": {
+        "title": "Saint-Sylvestre",
+        "text": "Buffets et plateaux pour recevoir sans passer la soirée en cuisine."
+      },
+      "paques": {
+        "title": "Pâques",
+        "text": "Le repas du dimanche de Pâques, de l'entrée au plat, à retirer la veille."
+      }
+    }
+  },
+  "house": {
+    "eyebrow": "La maison",
+    "title": "Olivier et Cindy Bréelle, charcutiers traiteurs à Henriville",
+    "p1": "Au 11 rue Gaulthier de Rumilly, la Maison Bréelle fait vivre une charcuterie de quartier comme il en reste peu : ici, tout ce qui passe en vitrine est préparé dans le laboratoire de la boutique.",
+    "p2": "Les clients du quartier viennent pour le jambon tranché à la demande, les terrines et les plats du jour. Ils reviennent pour la qualité et pour des prix qui restent raisonnables.",
+    "p3": "Leur histoire en détail arrive bientôt sur cette page.",
+    "facts": {
+      "home": {
+        "title": "Fait maison",
+        "text": "Charcuterie, plats et salades préparés sur place."
+      },
+      "district": {
+        "title": "Henriville",
+        "text": "Une boutique de quartier, à deux pas du centre d'Amiens."
+      },
+      "rating": {
+        "title": "{value}/5",
+        "text": "Sur {count} avis Google : la qualité et les prix reviennent souvent."
+      }
+    }
+  },
+  "status": {
+    "open": "Ouvert maintenant",
+    "closed": "Fermé",
+    "until": "jusqu'à {time}",
+    "opens": "ouvre {day} à {time}",
+    "today": "aujourd'hui",
+    "tomorrow": "demain"
+  },
+  "infos": {
+    "eyebrow": "Infos pratiques",
+    "title": "Venir à la boutique",
+    "address": "Adresse",
+    "directions": "Itinéraire",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "access": "Accès",
+    "accessText": "Quartier Henriville, au sud du centre-ville. Stationnement dans la rue et les rues voisines.",
+    "hours": "Horaires",
+    "lunch": "En semaine, la boutique ferme de 13 h 30 à 15 h.",
+    "days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ],
+    "closed": "Fermé",
+    "mapTitle": "Plan d'accès à la Maison Bréelle, 11 rue Gaulthier de Rumilly à Amiens"
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Bon à savoir",
+    "items": [
+      {
+        "q": "Combien de temps à l'avance faut-il commander ?",
+        "a": "Pour une commande à retirer, 24 heures suffisent : choisissez le jour et l'heure dans le formulaire. Pour un buffet ou un repas de groupe, comptez au moins une semaine, davantage pendant les fêtes."
+      },
+      {
+        "q": "Comment connaître les allergènes ?",
+        "a": "Tous nos produits sont faits sur place : nous connaissons chaque recette. Demandez-nous au comptoir ou par téléphone, nous vous indiquons les allergènes présents (gluten, lait, œuf, moutarde, céleri…)."
+      },
+      {
+        "q": "Comment conserver la charcuterie et les plats ?",
+        "a": "Au réfrigérateur, entre 0 et 4 °C. La charcuterie tranchée et les salades se dégustent dans les deux à trois jours ; les plats cuisinés se réchauffent au four ou au micro-ondes. Au moindre doute, demandez-nous au comptoir."
+      },
+      {
+        "q": "Comment se passe le paiement ?",
+        "a": "Vous réglez en boutique, au moment du retrait. Il n'y a aucun paiement en ligne. Pour les buffets et les grosses commandes, un acompte peut vous être demandé."
+      },
+      {
+        "q": "Livrez-vous ?",
+        "a": "Les commandes se retirent en boutique. Pour les prestations traiteur, parlez-nous de votre lieu dans la demande de devis : nous vous dirons ce qui est possible."
+      },
+      {
+        "q": "Puis-je modifier ou annuler ma commande ?",
+        "a": "Oui, appelez-nous au 03 22 45 11 18 le plus tôt possible, au plus tard la veille du retrait."
+      }
+    ]
+  },
+  "order": {
+    "eyebrow": "Commande à retirer",
+    "title": "Commandez, nous préparons",
+    "lead": "Choisissez vos produits, le jour et l'heure de retrait. Nous vous confirmons la commande par téléphone ou par e-mail. Vous réglez en boutique.",
+    "callInstead": "Vous préférez commander de vive voix ?",
+    "productsTitle": "Vos produits",
+    "product": "Produit",
+    "quantity": "Quantité",
+    "unit": "Unité",
+    "units": {
+      "kg": "kg",
+      "piece": "pièce",
+      "pieces": "pièces"
+    },
+    "cut": "Tranchage",
+    "cuts": {
+      "asIs": "Tel quel",
+      "thin": "En tranches fines",
+      "thick": "En tranches épaisses",
+      "other": "Autre (préciser)"
+    },
+    "detail": "Précision",
+    "detailPh": "Ex. 8 tranches, pour 6 personnes…",
+    "other": "Autre produit",
+    "otherPh": "Ce que vous souhaitez",
+    "dishOption": "Plat du jour (à la part)",
+    "addLine": "Ajouter un produit",
+    "removeLine": "Retirer ce produit",
+    "pickupTitle": "Retrait en boutique",
+    "pickupLead": "Au plus tôt {hours} h après votre commande, pendant les heures d'ouverture.",
+    "date": "Jour",
+    "time": "Heure",
+    "timePh": "Choisir l'heure",
+    "required": "obligatoire",
+    "contactTitle": "Vos coordonnées",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "email": "E-mail (facultatif)",
+    "emailHint": "Pour recevoir le récapitulatif de votre commande.",
+    "message": "Message (facultatif)",
+    "messagePh": "Une allergie, une demande particulière…",
+    "submit": "Envoyer ma commande",
+    "sending": "Envoi…",
+    "payNote": "Paiement en boutique au retrait. Aucun paiement en ligne.",
+    "whatsapp": "Envoyer aussi sur WhatsApp",
+    "errors": {
+      "lines": "Vérifiez les quantités, et précisez le produit si vous avez choisi « Autre ».",
+      "date": "Choisissez un jour de retrait.",
+      "time": "Choisissez une heure de retrait.",
+      "name": "Indiquez votre nom.",
+      "phone": "Indiquez un numéro de téléphone valide.",
+      "email": "Cette adresse e-mail ne semble pas valide.",
+      "send": "La commande n'a pas pu partir. Réessayez, ou appelez-nous directement."
+    },
+    "done": {
+      "title": "Merci, votre commande est envoyée",
+      "text": "Nous la préparons et vous rappelons si une précision est nécessaire.",
+      "pendingTitle": "Commande notée, merci d'appeler pour la confirmer",
+      "pendingText": "Votre demande est bien prise en compte sur ce site, mais pour être sûr qu'elle soit prête, appelez-nous en indiquant votre nom.",
+      "mail": "Un récapitulatif a été envoyé à {email}.",
+      "again": "Passer une autre commande"
+    },
+    "mail": {
+      "subject": "Commande à retirer",
+      "title": "Nouvelle commande à retirer",
+      "lines": "Produits",
+      "pickup": "Retrait",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "message": "Message",
+      "lang": "Langue du client",
+      "confirmSubject": "Votre commande à la Maison Bréelle",
+      "confirmIntro": "Bonjour {name},\n\nMerci pour votre commande. En voici le récapitulatif :",
+      "confirmOutro": "Le paiement se fait en boutique au retrait. Pour toute modification, appelez-nous au 03 22 45 11 18.\n\nÀ bientôt,\nOlivier et Cindy Bréelle"
+    }
+  },
+  "quote": {
+    "eyebrow": "Devis traiteur",
+    "title": "Parlez-nous de votre événement",
+    "lead": "Quelques informations suffisent. Nous revenons vers vous avec une proposition et un prix, sans engagement.",
+    "eventTitle": "Votre événement",
+    "event": "Type d'événement",
+    "events": {
+      "buffet": "Buffet",
+      "cocktail": "Cocktail",
+      "famille": "Repas de famille",
+      "entreprise": "Entreprise",
+      "other": "Autre"
+    },
+    "date": "Date",
+    "guests": "Nombre de personnes",
+    "formula": "Formule souhaitée",
+    "unsure": "Je ne sais pas encore",
+    "budget": "Budget par personne",
+    "budgets": {
+      "lt15": "Moins de 15 €",
+      "15to25": "15 à 25 €",
+      "25to40": "25 à 40 €",
+      "gt40": "Plus de 40 €",
+      "unsure": "À définir ensemble"
+    },
+    "mode": "Retrait ou livraison",
+    "modes": {
+      "pickup": "Retrait en boutique",
+      "delivery": "Livraison (à voir ensemble)"
+    },
+    "address": "Lieu de l'événement",
+    "addressPh": "Adresse ou commune",
+    "contactTitle": "Vos coordonnées",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "message": "Message (facultatif)",
+    "messagePh": "Vos envies, un régime particulier, l'heure de service…",
+    "submit": "Envoyer ma demande de devis",
+    "sending": "Envoi…",
+    "note": "Devis gratuit et sans engagement. Nous vous répondons par téléphone ou par e-mail.",
+    "errors": {
+      "event": "Choisissez le type d'événement.",
+      "date": "Indiquez la date de l'événement.",
+      "guests": "Indiquez le nombre de personnes.",
+      "name": "Indiquez votre nom.",
+      "phone": "Indiquez un numéro de téléphone valide.",
+      "email": "Indiquez une adresse e-mail valide pour recevoir le devis.",
+      "send": "La demande n'a pas pu partir. Réessayez, ou appelez-nous directement."
+    },
+    "soon": "Moins de {days} jours avant l'événement : appelez-nous pour vérifier que c'est possible.",
+    "done": {
+      "title": "Merci, votre demande est envoyée",
+      "text": "Nous étudions votre demande et revenons vers vous avec une proposition.",
+      "pendingTitle": "Demande notée, merci d'appeler pour la confirmer",
+      "pendingText": "Votre demande est bien enregistrée sur ce site. Pour être sûr qu'elle nous parvienne, appelez-nous en indiquant votre nom.",
+      "mail": "Une copie a été envoyée à {email}.",
+      "again": "Faire une autre demande"
+    },
+    "mail": {
+      "subject": "Demande de devis traiteur",
+      "title": "Nouvelle demande de devis traiteur",
+      "lang": "Langue du client",
+      "confirmSubject": "Votre demande de devis à la Maison Bréelle",
+      "confirmIntro": "Bonjour {name},\n\nMerci pour votre demande. Nous l'avons bien reçue :",
+      "confirmOutro": "Nous revenons vers vous rapidement avec une proposition. Pour toute question : 03 22 45 11 18.\n\nÀ bientôt,\nOlivier et Cindy Bréelle"
+    }
+  },
+  "cateringPage": {
+    "eyebrow": "Traiteur à Amiens",
+    "title": "Traiteur à Amiens : buffets et plateaux",
+    "lead": "Depuis leur charcuterie d'Henriville, Olivier et Cindy Bréelle préparent les buffets, cocktails et repas de famille des Amiénois. Le même fait maison qu'en boutique, à l'échelle de votre événement.",
+    "formulasTitle": "Nos formules",
+    "howTitle": "Comment ça se passe",
+    "steps": [
+      {
+        "t": "Votre demande",
+        "x": "Date, nombre d'invités, budget : remplissez le formulaire ou appelez-nous."
+      },
+      {
+        "t": "Notre proposition",
+        "x": "Nous vous envoyons un menu et un prix. On ajuste ensemble si besoin."
+      },
+      {
+        "t": "Le jour J",
+        "x": "Vous retirez tout en boutique, prêt à servir, à l'heure convenue."
+      }
+    ],
+    "faqTitle": "Questions sur le traiteur",
+    "faq": [
+      {
+        "q": "Combien de temps avant l'événement faut-il réserver ?",
+        "a": "Idéalement deux à trois semaines, au moins une semaine. Pendant les fêtes de fin d'année, réservez le plus tôt possible."
+      },
+      {
+        "q": "Pouvez-vous adapter le menu (sans porc, végétarien, allergies) ?",
+        "a": "Dites-le dans votre demande : nous adaptons la proposition autant que possible et vous indiquons les allergènes de chaque préparation."
+      },
+      {
+        "q": "La vaisselle est-elle fournie ?",
+        "a": "Les plateaux sont présentés prêts à servir. Pour le reste (assiettes, nappes, service), précisez vos besoins dans la demande."
+      },
+      {
+        "q": "Faut-il verser un acompte ?",
+        "a": "Pour les prestations importantes, un acompte peut être demandé à la confirmation. Le solde se règle en boutique."
+      }
+    ],
+    "back": "Retour à la boutique"
+  },
+  "footer": {
+    "tagline": "Charcuterie traiteur de quartier à Henriville, Amiens. Tout est fait maison.",
+    "rights": "Maison Bréelle – Charcuterie Traiteur",
+    "legal": "Mentions légales",
+    "catering": "Traiteur à Amiens"
+  },
+  "pages": {
+    "legal": {
+      "title": "Mentions légales",
+      "pending": "à compléter",
+      "editor": "Éditeur du site",
+      "editorText": "Maison Bréelle – Charcuterie Traiteur, 11 rue Gaulthier de Rumilly, 80000 Amiens. Téléphone : 03 22 45 11 18.",
+      "company": "Raison sociale",
+      "siret": "SIRET",
+      "host": "Hébergeur",
+      "data": "Données personnelles",
+      "dataText": "Les informations saisies dans les formulaires de commande et de devis servent uniquement à traiter votre demande. Elles sont transmises par e-mail à la boutique et ne sont ni conservées sur le site, ni cédées à des tiers. Vous pouvez demander leur suppression en appelant la boutique.",
+      "cookies": "Cookies",
+      "cookiesText": "Le site n'utilise ni cookie publicitaire ni outil de mesure d'audience. Seul votre choix de langue est mémorisé. La carte d'accès est fournie par Google Maps.",
+      "photos": "Photographies",
+      "photosText": "Photographies : Maison Bréelle. Toute reproduction est interdite sans autorisation."
+    }
+  },
+  "alt": {
+    "hero/plateaux-charcuterie": "Deux plateaux préparés par la Maison Bréelle : jambon blanc roulé et rosbif tranché, garnis de poivrons, olives et salade",
+    "traiteur/plateau-jambon": "Plateau de jambon blanc tranché, garni de poivrons, d'olives noires et de salade frisée",
+    "traiteur/plateau-rosbif": "Plateau de rosbif rosé tranché avec tomates, poivrons et olives",
+    "plats/salade-pommes-de-terre": "Salade de pommes de terre au persil, servie dans un plat blanc"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_doc": "Plat du jour. Deux façons de le tenir à jour : (1) « today » : le plat d'un jour précis (date AAAA-MM-JJ) ; (2) « week » : les plats prévus par jour de la semaine (1 = lundi … 6 = samedi). Le site montre « today » si sa date est aujourd'hui, sinon le plat de la semaine pour ce jour, sinon un message « demandez le plat du jour ». Jamais de plat périmé. price : prix de la part en euros (null = non affiché). photo : clé d'une photo de public/media (facultatif).",
+  "today": { "date": "", "fr": "", "en": "", "detailFr": "", "detailEn": "", "price": null, "photo": "" },
+  "week": {
+    "1": null,
+    "2": null,
+    "3": null,
+    "4": null,
+    "5": null,
+    "6": null
+  },
+  "_exempleWeek": { "fr": "Blanquette de veau à l'ancienne", "en": "Old-style veal blanquette", "detailFr": "Riz pilaf", "detailEn": "Pilaf rice", "price": 9.5 }
+}
